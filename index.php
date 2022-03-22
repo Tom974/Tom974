@@ -46,17 +46,7 @@
                     
                     <div class="navbar-collapse collapse" id="navbar-collapse-toggle">
                         <ul class="nav navbar-nav ml-auto">
-                            <li class="simple-dropdown">
-                                <a class="nav-link" href="#home">Home</a>
-                                <i class="fa fa-angle-down m-dropdown-toggle"></i>
-                                <ul class="m-dropdown-menu">
-                                    <li><a href="index.html">Home Option 1</a></li>
-                                    <li><a href="index-01.html">Home Option 2</a></li>
-                                    <li><a href="index-02.html">Home Option 3</a></li>
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-details.html">Single Blog</a></li>
-                                </ul>
-                            </li>
+                            <li><a class="nav-link" href="#home">Home</a></li>
                             <li><a class="nav-link" href="#about">About</a></li>
                             <li><a class="nav-link" href="#services">Services</a></li>
                             <li><a class="nav-link" href="#resume">Resume</a></li>
