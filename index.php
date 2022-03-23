@@ -40,7 +40,7 @@
                 <div class="container">
                     <div class="navbar-brand">
                         <a class="logo-text" href="#">
-                            MARTIN
+                            Tom974
                         </a>
                     </div>
                     
@@ -63,22 +63,19 @@
             </div>
             <!-- End Header Middle -->
         </header>
-        <!-- Header End -->
 
-        <!-- Main -->
         <main>
             <!-- Home Banner -->
             <section id="home" class="home-banner-02 bg-cover bg-center bg-no-repeat" style="background: rgba(0,0,0,0.8);">
                 <div id="particles-box"  class="particles-box"></div>
                 <div class="container">
-                    <div class="row full-screen align-items-center justify-content-center">
-                        <div class="col-lg-9 text-center">
+                    <div class="row full-screen align-items-center justify-content-left">
+                        <div class="col-lg-9 text-left">
                             <div class="ht-box">
-                                <h2 class="white-color">Martin Luther</h2>
-                                <p class="white-color m-0px">I'm Passionate <span id="type-it"></span></p>
-                                <div class="p-25px-t">
-                                    <a class="m-btn m-btn-radius m-btn-white" href="#">Download CV</a>
-                                </div>
+                                <h2 class="white-color"><strong>I'm Tom974</strong></h2>
+                                <a class="btn text-white" style="background-color: #f34236;cursor: default;margin-bottom:10px;margin-top:10px">Software Engineer</a>
+                                <br/>
+                                <a class="btn text-white" style="background-color: #f34236;cursor: default;margin-bottom:10px">Web Developer</a>
                             </div>
                         </div>
                     </div>
@@ -92,11 +89,8 @@
                     <div class="row justify-content-center sm-m-25px-b m-45px-b">
                         <div class="col-md-12 col-lg-8">
                             <div class="section-title text-center">
-                                <h3 class="dark-color"><mark>About</mark> Me</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat.</p>
+                                <h3 class="dark-color">About Me</h3>
+                                <p><strong class="dark-color">Hello, my name is Tom.</strong> I'm a 19 years old software developer from the Netherlands, Amsterdam. I currently am experienced with 5+ years of development in websites and continously growing my knowledge.</p>
                             </div>        
                         </div>
                     </div>
@@ -108,80 +102,57 @@
                             </div>
                             <div class="col-lg-4 m-15px-tb">
                                 <h5 class="font-w-600 theme-color m-15px-b">Information</h5>
-                                <p class="m-0px p-5px-tb"><strong class="dark-color font-w-500">Name : </strong>Martin Luthar</p>
-                                <p class="m-0px p-5px-tb"><strong class="dark-color font-w-500">Birthday : </strong>21 June 1992</p>
-                                <p class="m-0px p-5px-tb"><strong class="dark-color font-w-500">Phone : </strong>00 0000 0000</p>
-                                <p class="m-0px p-5px-tb"><strong class="dark-color font-w-500">E-mail : </strong>hello@domain.com</p>
+                                <p class="m-0px p-5px-tb"><strong class="dark-color font-w-500">Name : </strong>Tom Hartog</p>
+                                <p class="m-0px p-5px-tb"><strong class="dark-color font-w-500">Birthday : </strong>11 March 2003</p>
+                                <p class="m-0px p-5px-tb"><strong class="dark-color font-w-500">Discord : </strong>Tomm#3354</p>
+                                <p class="m-0px p-5px-tb"><strong class="dark-color font-w-500">E-mail : </strong>T.J.Hartog@outlook.com</p>
                                 <ul class="nav si-dark si-radisu social-icon m-15px-t">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-github"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-discord"></i></a></li>
                                 </ul>
                                 <div class="p-25px-t">
-                                    <a class="m-btn-theme m-btn m-btn-sm m-btn-radius m-5px-l" href="#">download cv</a>
+                                    <a class="m-btn-theme m-btn m-btn-m m-btn-radius m-5px-l" href="#">DOWNLOAD CV</a>
                                 </div>
                             </div>
                             <div class="col-lg-4 m-15px-tb">
-                                <h5 class="font-w-600 theme-color m-15px-b">Professional skills.</h5>
-                                <!-- skill -->
+                                <h5 class="font-w-600 theme-color m-15px-b">Professional Skills</h5>
                                 <div class="skill-lt p-25px-t">
-                                    <h6 class="dark-color">HTML5</h6>
+                                    <h8 class="dark-color">HTML/CSS</h6>
                                     <div class="skill-bar">
-                                      <div class="skill-bar-in dark-bg" role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100">
-                                        <span>92%</span>
-                                      </div>
+                                      <div class="skill-bar-in theme-bg" role="progressbar" aria-valuenow="62" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
                                 </div>
-                                <!-- end skill -->
-                                <!-- skill -->
                                 <div class="skill-lt">
-                                    <h6 class="dark-color">WordPress</h6>
+                                    <h8 class="dark-color">Javascript/NodeJS</h6>
                                     <div class="skill-bar">
-                                      <div class="skill-bar-in dark-bg" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100">
-                                        <span>75%</span>
-                                      </div>
+                                      <div class="skill-bar-in theme-bg" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
                                 </div>
-                                <!-- end skill -->
-                                <!-- skill -->
                                 <div class="skill-lt">
-                                    <h6 class="dark-color">Magento</h6>
+                                    <h8 class="dark-color">PHP</h8>
                                     <div class="skill-bar">
-                                      <div class="skill-bar-in dark-bg" role="progressbar" aria-valuenow="86" aria-valuemin="0" aria-valuemax="100">
-                                        <span>86%</span>
-                                      </div>
-                                    </div>
-                                </div><!-- /skill -->
-                                <!-- end skill -->
-                                <!-- skill -->
-                                <div class="skill-lt">
-                                    <h6 class="dark-color">UI/UX</h6>
-                                    <div class="skill-bar">
-                                      <div class="skill-bar-in dark-bg" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100">
-                                        <span>88%</span>
-                                      </div>
+                                      <div class="skill-bar-in theme-bg" role="progressbar" aria-valuenow="86" aria-valuemin="0" aria-valuemax="100"></div>
                                     </div>
                                 </div>
-                                <!-- end skill -->
+                                <div class="skill-lt">
+                                    <h8 class="dark-color">Linux</h6>
+                                    <div class="skill-bar">
+                                      <div class="skill-bar-in theme-bg" role="progressbar" aria-valuenow="48" aria-valuemin="0" aria-valuemax="100"></div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <!-- end about us -->
-
-            <!-- Feature Box -->
             <section id="services" class="section gray-bg">
                 <div class="container">
                     <div class="row justify-content-center sm-m-25px-b m-45px-b">
                         <div class="col-md-12 col-lg-8">
                             <div class="section-title text-center">
                                 <h3 class="dark-color">
-                                    My Services
+                                    My Work
                                 </h3>
-                                <p class="m-0px large">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
                             </div>        
                         </div>
                     </div>
@@ -193,63 +164,8 @@
                                     <i class="icon-desktop"></i>
                                 </div>
                                 <div class="feature-content">
-                                    <h6 class="dark-color font-w-700 m-15px-b">Search Optimization</h6>
-                                    <p class="m-0px">This is a graphically polished, interactive, easily customizable, highly modern, fast loading.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-lg-4 m-15px-tb">
-                            <div class="feature-box-4 text-center p-40px-tb p-20px-lr hover-top transition box-shadow-hover">
-                                <div class="f-icon theme-color m-10px-b">
-                                    <i class="icon-layers"></i>
-                                </div>
-                                <div class="feature-content">
-                                    <h6 class="dark-color font-w-700 m-15px-b">Logo &amp; Identity</h6>
-                                    <p class="m-0px">This is a graphically polished, interactive, easily customizable, highly modern, fast loading.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-lg-4 m-15px-tb">
-                            <div class="feature-box-4 text-center p-40px-tb p-20px-lr hover-top transition box-shadow-hover">
-                                <div class="f-icon theme-color m-10px-b">
-                                    <i class="icon-hotairballoon"></i>
-                                </div>
-                                <div class="feature-content">
-                                    <h6 class="dark-color font-w-700 m-15px-b">Graphics Design</h6>
-                                    <p class="m-0px">This is a graphically polished, interactive, easily customizable, highly modern, fast loading.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-lg-4 m-15px-tb">
-                            <div class="feature-box-4 text-center p-40px-tb p-20px-lr hover-top transition box-shadow-hover">
-                                <div class="f-icon theme-color m-10px-b">
-                                    <i class="icon-mobile"></i>
-                                </div>
-                                <div class="feature-content">
-                                    <h6 class="dark-color font-w-700 m-15px-b">Fully Responsive</h6>
-                                    <p class="m-0px">This is a graphically polished, interactive, easily customizable, highly modern, fast loading.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-lg-4 m-15px-tb">
-                            <div class="feature-box-4 text-center p-40px-tb p-20px-lr hover-top transition box-shadow-hover">
-                                <div class="f-icon theme-color m-10px-b">
-                                    <i class="icon-tools-2"></i>
-                                </div>
-                                <div class="feature-content">
-                                    <h6 class="dark-color font-w-700 m-15px-b">Advanced Options</h6>
-                                    <p class="m-0px">This is a graphically polished, interactive, easily customizable, highly modern, fast loading.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-lg-4 m-15px-tb">
-                            <div class="feature-box-4 text-center p-40px-tb p-20px-lr hover-top transition box-shadow-hover">
-                                <div class="f-icon theme-color m-10px-b">
-                                    <i class="icon-scissors"></i>
-                                </div>
-                                <div class="feature-content">
-                                    <h6 class="dark-color font-w-700 m-15px-b">Reasonable Pricing</h6>
-                                    <p class="m-0px">This is a graphically polished, interactive, easily customizable, highly modern, fast loading.</p>
+                                    <h6 class="dark-color font-w-700 m-15px-b">FiveM Gangpanel</h6>
+                                    <p class="m-0px">Back end project of mine including a wide range of php development.</p>
                                 </div>
                             </div>
                         </div>

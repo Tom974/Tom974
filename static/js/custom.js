@@ -375,8 +375,8 @@
 		            speed: 200,
 		            loop:true,
 		            strings: [
-		              'Designer',
-		              'Developer'
+		              'Software Engineer',
+		              'Software Developer'
 		            ],
 		            breakLines: false
 		        }); 
