@@ -76,6 +76,10 @@
                                 <a class="btn text-white" style="background-color: #f34236;cursor: default;margin-bottom:10px;margin-top:10px">Software Engineer</a>
                                 <br/>
                                 <a class="btn text-white" style="background-color: #f34236;cursor: default;margin-bottom:10px">Web Developer</a>
+                                <br/>
+                                <a class="btn text-white" style="background-color: #f34236;cursor: default;margin-bottom:10px">System Administrator</a>
+                                <br/>
+                                <a class="btn text-white" style="background-color: #f34236;cursor: default;margin-bottom:10px">15.000+ hours of coding experience</a>
                             </div>
                         </div>
                     </div>
@@ -160,21 +164,18 @@
                     <div class="row">
                         <div class="col-sm-6 col-lg-4 m-15px-tb">
                             <div class="feature-box-4 text-center p-40px-tb p-20px-lr hover-top transition box-shadow-hover">
-                                <div class="f-icon theme-color m-10px-b">
-                                    <i class="icon-desktop"></i>
-                                </div>
                                 <div class="feature-content">
                                     <h6 class="dark-color font-w-700 m-15px-b">FiveM Gangpanel</h6>
-                                    <p class="m-0px">Back end project of mine including a wide range of php development.</p>
+                                    <p class="m-0px">Back-end project of mine for gangs to use in a roleplay server on FiveM. It keeps track of a bunch of various stuff used in the roleplay, and also offers discord integration.</p>
+                                    <br/>
+                                    <p class="m-0px">AVAILABLE FOR PURCHASE</p>
+                                    <p class="m-0px">PLEASE CONTACT ME</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <!-- Feature Box -->
-
-            <!-- resume -->
             <section id="resume" class="section">
                 <div class="container">
                     <div class="row justify-content-center sm-m-25px-b m-45px-b">
@@ -188,16 +189,16 @@
                     <div class="row">
                         <div class="col-md-6 m-15px-tb">
                             <div class="box-shadow-lg p-30px">
-                                <h5 class="theme-color font-w-700 m-20px-b">WORK</h5>
+                                <h5 class="theme-color font-w-700 m-20px-b">EDUCATION</h5>
                                 <div class="p-30px-b">
-                                    <h6 class="font-w-600 dark-color">APPLE</h6>
-                                    <p class="font-small m-5px-b"><i>OCT 2015 - JUNE 2016</i></p>
-                                    <p class="m-0px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt sit amet erat malesuada interdum. Aenean sodales dui quis leo fermentum scelerisque.</p>
+                                    <h6 class="font-w-600 dark-color">Software Developer, Regio College</h6>
+                                    <p class="font-small m-5px-b"><i>AUG 2019 - MARCH 2022</i></p>
+                                    <p class="m-0px">Learned basic software development, with a focus on web development. Studied in C#, PHP, HTML, CSS, MySQL and Python</p>
                                 </div>
                                 <div>
-                                    <h6 class="font-w-600 dark-color">GOOGLE</h6>
-                                    <p class="font-small m-5px-b"><i>OCT 2015 - JUNE 2016</i></p>
-                                    <p class="m-0px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt sit amet erat malesuada interdum. Aenean sodales dui quis leo fermentum scelerisque.</p>
+                                    <h6 class="font-w-600 dark-color">YET TO COME</h6>
+                                    <p class="font-small m-5px-b"><i>UNKNOWN - UNKNOWN</i></p>
+                                    <p class="m-0px">Yet to come..</p>
                                 </div>
                             </div>
                         </div>
@@ -205,34 +206,28 @@
                             <div class="box-shadow-lg p-30px">
                                 <h5 class="theme-color font-w-700 m-20px-b">WORK</h5>
                                 <div class="p-30px-b">
-                                    <h6 class="font-w-600 dark-color">APPLE</h6>
-                                    <p class="font-small m-5px-b"><i>OCT 2015 - JUNE 2016</i></p>
-                                    <p class="m-0px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt sit amet erat malesuada interdum. Aenean sodales dui quis leo fermentum scelerisque.</p>
+                                    <h6 class="font-w-600 dark-color">Jaspers Media</h6>
+                                    <p class="font-small m-5px-b"><i>AUG 2020 - PRESENT</i></p>
+                                    <p class="m-0px">Working as an full-stack developer for mostly back-end projects. Working with own made frameworks and frameworks such as Laravel, Bootstrap, Tailwind and Nuxt.</p>
                                 </div>
                                 <div>
-                                    <h6 class="font-w-600 dark-color">GOOGLE</h6>
-                                    <p class="font-small m-5px-b"><i>OCT 2015 - JUNE 2016</i></p>
-                                    <p class="m-0px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tincidunt sit amet erat malesuada interdum. Aenean sodales dui quis leo fermentum scelerisque.</p>
+                                    <h6 class="font-w-600 dark-color">YET TO COME</h6>
+                                    <p class="font-small m-5px-b"><i>UNKNOWN - UNKNOWN</i></p>
+                                    <p class="m-0px">Yet to come..</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <!-- end resume -->
-
-            <!-- cta -->
             <section class="p-60px-tb theme-bg">
                 <div class="container text-center">
-                    <h3 class="font-w-600 white-color">I AM AVAILABLE FOR FREELANCE</h3>
+                    <h3 class="font-w-600 white-color">I AM AVAILABLE FOR INQUIRIES</h3>
                     <div class="p-15px-t">
-                        <a class="m-btn m-btn-white" href="#">hire me Now</a>
+                        <a class="m-btn m-btn-white" href="#">hire me</a>
                     </div>
                 </div>
             </section>
-            <!-- end cta -->
-
-            <!-- Work -->
             <section id="work" class="section">
                 <div class="container">
                     <div class="row justify-content-center sm-m-30px-b m-60px-b">
@@ -247,7 +242,7 @@
                      <div class="portfolio-filter-01 m-20px-b">
                         <ul class="filter justify-content-center nav">
                             <li class="active" data-filter="*">All</li>
-                            <li data-filter=".branding">Branding</li>
+                            <li data-filter=".gangpanel">FiveM Gangpanel</li>
                             <li data-filter=".photoshop">Photoshop</li>
                             <li data-filter=".fashion">Fashion</li>
                             <li data-filter=".product">Product</li>
@@ -255,7 +250,7 @@
                     </div>
 
                     <div class="portfolio-content grid-col-3 lightbox-gallery grid-gutter-lg">
-                        <div class="grid-item product branding">
+                        <div class="grid-item product gangpanel">
                             <div class="portfolio-box-01 box-shadow-lg p-10px white-bg">
                                 <div class="portfolio-img">
                                     <img src="static/img/550x500.jpg" title="" alt="">
@@ -267,7 +262,7 @@
                                         <h5><a href="#">Our Photography</a></h5>
                                 </div>
                             </div>
-                        </div> <!-- grid item -->
+                        </div>
                         <div class="grid-item photoshop">
                             <div class="portfolio-box-01 box-shadow-lg p-10px white-bg">
                                 <div class="portfolio-img">
@@ -280,7 +275,7 @@
                                         <h5><a href="#">Our Photography</a></h5>
                                 </div>
                             </div>
-                        </div> <!-- grid item -->
+                        </div> 
                         <div class="grid-item product fashion">
                             <div class="portfolio-box-01 box-shadow-lg p-10px white-bg">
                                 <div class="portfolio-img">
@@ -293,7 +288,7 @@
                                         <h5><a href="#">Our Photography</a></h5>
                                 </div>
                             </div>
-                        </div> <!-- grid item -->
+                        </div> 
                         <div class="grid-item photoshop">
                             <div class="portfolio-box-01 box-shadow-lg p-10px white-bg">
                                 <div class="portfolio-img">
@@ -306,7 +301,7 @@
                                         <h5><a href="#">Our Photography</a></h5>
                                 </div>
                             </div>
-                        </div> <!-- grid item -->
+                        </div> 
                         <div class="grid-item product fashion">
                             <div class="portfolio-box-01 box-shadow-lg p-10px white-bg">
                                 <div class="portfolio-img">
@@ -319,8 +314,8 @@
                                         <h5><a href="#">Our Photography</a></h5>
                                 </div>
                             </div>
-                        </div> <!-- grid item -->
-                        <div class="grid-item branding">
+                        </div> 
+                        <div class="grid-item gangpanel">
                             <div class="portfolio-box-01 box-shadow-lg p-10px white-bg">
                                 <div class="portfolio-img">
                                     <img src="static/img/550x500.jpg" title="" alt="">
@@ -332,8 +327,8 @@
                                         <h5><a href="#">Our Photography</a></h5>
                                 </div>
                             </div>
-                        </div> <!-- grid item -->
-                        <div class="grid-item branding">
+                        </div> 
+                        <div class="grid-item gangpanel">
                             <div class="portfolio-box-01 box-shadow-lg p-10px white-bg">
                                 <div class="portfolio-img">
                                     <img src="static/img/550x500.jpg" title="" alt="">
@@ -344,192 +339,53 @@
                                         </a>
                                         <h5><a href="#">Our Photography</a></h5>
                                 </div>
-                            </div>
-                        </div> <!-- grid item -->
-                        <div class="grid-item branding">
-                            <div class="portfolio-box-01 box-shadow-lg p-10px white-bg">
-                                <div class="portfolio-img">
-                                    <img src="static/img/550x500.jpg" title="" alt="">
-                                </div>
-                                <div class="portfolio-info">
-                                        <a href="static/img/550x500.jpg" class="gallery-link">
-                                            <i></i>
-                                        </a>
-                                        <h5><a href="#">Our Photography</a></h5>
-                                </div>
-                            </div>
-                        </div> <!-- grid item -->
-                        <div class="grid-item product branding">
-                            <div class="portfolio-box-01 box-shadow-lg p-10px white-bg">
-                                <div class="portfolio-img">
-                                    <img src="static/img/550x500.jpg" title="" alt="">
-                                </div>
-                                <div class="portfolio-info">
-                                        <a href="static/img/550x500.jpg" class="gallery-link">
-                                            <i></i>
-                                        </a>
-                                        <h5><a href="#">Our Photography</a></h5>
-                                </div>
-                            </div>
-                        </div> <!-- grid item -->
-                    </div> <!-- portfolio-content -->
-                </div>
-            </section>
-            <!-- End work -->
-
-            <!-- Testiminails -->
-            <section class="section gray-bg">
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-md-8 col-lg-6">
-                            <div class="owl-carousel" data-items="1" data-nav-dots="true" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1" data-space="0">
-                                <!-- testimonials -->
-                                <div class="testimonial-col-01 box-shadow">
-                                    <div class="img">
-                                        <img src="static/img/550x500.jpg" title="" alt="">
-                                    </div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                                    <div class="tc-info">
-                                        <h5 class="font-alt">Nancy Bayers</h5>
-                                        <label>Co-founder</label>
-                                    </div>
-                                </div>
-                                <!-- / -->
-                                <!-- testimonials -->
-                                <div class="testimonial-col-01 box-shadow">
-                                    <div class="img">
-                                        <img src="static/img/550x500.jpg" title="" alt="">
-                                    </div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                                    <div class="tc-info">
-                                        <h5 class="font-alt">Nancy Bayers</h5>
-                                        <label>Co-founder</label>
-                                    </div>
-                                </div>
-                                <!-- / -->
-                                <!-- testimonials -->
-                                <div class="testimonial-col-01 box-shadow">
-                                    <div class="img">
-                                        <img src="static/img/550x500.jpg" title="" alt="">
-                                    </div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                                    <div class="tc-info">
-                                        <h5 class="font-alt">Nancy Bayers</h5>
-                                        <label>Co-founder</label>
-                                    </div>
-                                </div>
-                                <!-- / -->
-                                <!-- testimonials -->
-                                <div class="testimonial-col-01 box-shadow">
-                                    <div class="img">
-                                        <img src="static/img/550x500.jpg" title="" alt="">
-                                    </div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                                    <div class="tc-info">
-                                        <h5 class="font-alt">Nancy Bayers</h5>
-                                        <label>Co-founder</label>
-                                    </div>
-                                </div>
-                                <!-- / -->
                             </div>
                         </div>
-                    </div>
-                </div>
-            </section>
-            <!-- End Testiminails -->
-
-            <!-- Blog -->
-            <section id="blog" class="section">
-                <div class="container">
-                    <div class="row justify-content-center sm-m-25px-b m-40px-b">
-                        <div class="col-md-12 col-lg-8">
-                            <div class="section-title text-center">
-                                <h2 class="dark-color"><span class="theme-color">MY</span> BLOGS</h2>
-                            </div>        
+                        <div class="grid-item gangpanel">
+                            <div class="portfolio-box-01 box-shadow-lg p-10px white-bg">
+                                <div class="portfolio-img">
+                                    <img src="static/img/550x500.jpg" title="" alt="">
+                                </div>
+                                <div class="portfolio-info">
+                                        <a href="static/img/550x500.jpg" class="gallery-link">
+                                            <i></i>
+                                        </a>
+                                        <h5><a href="#">Our Photography</a></h5>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-4 m-15px-tb">
-                            <div class="blog-grid box-shadow-lg">
-                                <div class="blog-grid-img">
-                                    <a href="#">
-                                        <img src="static/img/1200x800.jpg" title="" alt="">
-                                    </a>
+                        <div class="grid-item product gangpanel">
+                            <div class="portfolio-box-01 box-shadow-lg p-10px white-bg">
+                                <div class="portfolio-img">
+                                    <img src="static/img/550x500.jpg" title="" alt="">
                                 </div>
-                                <div class="blog-gird-info">
-                                    <div class="b-meta">
-                                        <span class="date">02 Mar 2019</span>
-                                        <span class="meta">Design</span>
-                                    </div>
-                                    <h5><a href="#">Make your Marketing website</a></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                    <div class="btn-grid">
-                                        <a class="m-btn-link" href="#">Read More</a>
-                                    </div>
+                                <div class="portfolio-info">
+                                        <a href="static/img/550x500.jpg" class="gallery-link">
+                                            <i></i>
+                                        </a>
+                                        <h5><a href="#">Our Photography</a></h5>
                                 </div>
                             </div>
-                        </div> <!-- col -->
-                        <div class="col-lg-4 m-15px-tb">
-                            <div class="blog-grid box-shadow-lg">
-                                <div class="blog-grid-img">
-                                    <a href="#">
-                                        <img src="static/img/1200x800.jpg" title="" alt="">
-                                    </a>
-                                </div>
-                                <div class="blog-gird-info">
-                                    <div class="b-meta">
-                                        <span class="date">02 Mar 2019</span>
-                                        <span class="meta">Design</span>
-                                    </div>
-                                    <h5><a href="#">Make your Marketing website</a></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                    <div class="btn-grid">
-                                        <a class="m-btn-link" href="#">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> <!-- col -->
-                        <div class="col-lg-4 m-15px-tb">
-                            <div class="blog-grid box-shadow-lg">
-                                <div class="blog-grid-img">
-                                    <a href="#">
-                                        <img src="static/img/1200x800.jpg" title="" alt="">
-                                    </a>
-                                </div>
-                                <div class="blog-gird-info">
-                                    <div class="b-meta">
-                                        <span class="date">02 Mar 2019</span>
-                                        <span class="meta">Design</span>
-                                    </div>
-                                    <h5><a href="#">Make your Marketing website</a></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                                    <div class="btn-grid">
-                                        <a class="m-btn-link" href="#">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> <!-- col -->
-                    </div>
+                        </div> 
+                    </div> 
                 </div>
             </section>
-            <!-- End Blog -->
 
             <section id="contactus" class="section gray-bg">
                 <div class="container">
                     <div class="row justify-content-center sm-m-25px-b m-45px-b">
-                        <div class="col-md-12 col-lg-8">
+                        <div class="col-md-12 col-lg-12">
                             <div class="section-title text-center">
-                                <h2 class="dark-color">CONTACT<span class="theme-color">ME</span></h2>
+                                <h2 class="dark-color">CONTACT<span class="theme-color"> ME</span></h2>
                             </div>        
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-lg-7 m-15px-tb">
-                            <!-- form -->
+                        <div class="col-lg-12 m-15px-tb">
                             <div class="contact-form box-shadow-lg white-bg">
                                 <div class="sm-title p-25px-b">
-                                    <h5 class="dark-color">Drop us a line</h5>
-                                    <p class="m-0px">We are here to answer any question you may have</p>
+                                    <h5 class="dark-color">Send me an e-mail</h5>
+                                    <p class="m-0px">Looking to contact me about anything? Feel free to fill out the contact form.</p>
                                     <i class="far fa-paper-plane"></i>
                                 </div>
                                 <form class="contactform" method="post" action="static/php/process-form.php">
@@ -551,99 +407,44 @@
                                         </div>
                                         <div class="col-md-12">
                                             <div class="send">
-                                                <button class="m-btn m-btn-theme" type="submit" name="send">Get in touch</button>
+                                                <button class="m-btn m-btn-theme" type="submit" name="send">Send</button>
                                             </div>
                                         </div>
 
                                     </div>
                                 </form>
                             </div>
-                            <!-- end form -->
-                        </div>
-                        <div class="col-lg-5 col-xl-4 m-15px-tb">
-                            <div class="box-shadow-lg p-30px-lr p-15px-tb white-bg h-100">
-                                <div class="feature-box-3 media p-15px-tb">
-                                    <div class="icon">
-                                        <span class="icon-map-pin white-color dark-bg"></span>
-                                    </div>
-                                    <div class="feature-content">
-                                        <h5 class="dark-color">Address</h5>
-                                        <p>123 6th St. Melbourne,<br>FL 32904, USA</p>
-                                    </div>
-                                </div>
-
-                                <div class="feature-box-3 media p-15px-tb">
-                                    <div class="icon">
-                                        <span class="icon-envelope white-color dark-bg"></span>
-                                    </div>
-                                    <div class="feature-content">
-                                        <h5 class="dark-color">Email</h5>
-                                        <p>info@yourdomain.com<br>sale@yourdomain.com</p>
-                                    </div>
-                                </div>
-
-                                <div class="feature-box-3 media p-15px-tb">
-                                    <div class="icon">
-                                        <span class="icon-mobile white-color dark-bg"></span>
-                                    </div>
-                                    <div class="feature-content">
-                                        <h5 class="dark-color">Phone</h5>
-                                        <p>Mob: +01 000 000 000<br>Fax: +01 000 000 000</p>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
             </section>
         </main>
-        <!-- main end -->
-        <!-- Footer-->
         <footer class="footer footer-dark">
             <div class="footer-top">
                 <div class="container">
                     <div class="footer-about text-center">
                         <div class="fot-logo">
-                            Martin
+                            Tom974
                         </div>
                         <div class="nav si-dark si-round social-icon si-40 justify-content-center">
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
-                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            <a href="#"><i class="fab fa-pinterest"></i></a>
+                            <a href="#"><i class="fab fa-discord"></i></a>
+                            <a href="#"><i class="fab fa-github"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- footer top -->
             <div class="footer-bottom">
                 <div class="container text-center">
-                    <p>© 2019 copyright all right reserved</p>
+                    <p>© 2022 copyright all right reserved</p>
                 </div>
             </div>
-            <!-- /footer bottom -->
         </footer>
-        <!-- footer End -->
 
-
-        <!-- jquery -->
         <script src="static/js/jquery-3.2.1.min.js"></script>
         <script src="static/js/jquery-migrate-3.0.0.min.js"></script>
-        <!-- end jquery -->
-        <!-- appear -->
         <script src="static/plugin/appear/jquery.appear.js"></script>
-        <!-- end appear -->
-        <!--bootstrap-->
         <script src="static/plugin/bootstrap/js/popper.min.js"></script>
         <script src="static/plugin/bootstrap/js/bootstrap.js"></script>
-        <!--end bootstrap-->
-        <!-- End -->
-
-        <!-- custom js -->
         <script src="static/js/custom.js"></script>
-        <!-- end -->
-
-        <!-- end body -->
     </body>
 </html>
